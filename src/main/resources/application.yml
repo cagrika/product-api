@@ -1,0 +1,10 @@
+server:
+  port: 8081
+product-consumer-api:
+  dynamodb:
+    accessKey: 
+    secretKey:
+    endpoint: 
+spring:
+  redis:
+    host: 
